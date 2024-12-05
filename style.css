@@ -1,0 +1,199 @@
+body{
+    background-color: ;
+    font-family:-webkit-body;
+    padding: 50px;
+    margin: 10px;
+    cursor: -webkit-grab;
+
+
+background-color: #00fb86;
+background: url(ourFallBackImage.png);
+background-repeat: repeat-x;
+/* Safari 4-5, Chrome 1-9 */
+background: -webkit-gradient(linear, 0% 0%, 0% 100%,
+from(#00fb86), to(#61d2ff));
+/* Safari 5.1, Chrome 10+ */
+background: -webkit-linear-gradient(top, #61d2ff,
+#00fb86);
+/* Firefox 3.6+ */
+background: -moz-linear-gradient(top, #61d2ff, #00fb86);
+
+/* IE 10 */
+background: -ms-linear-gradient(top, #61d2ff, #00fb86);
+/* Opera 11.10+ */
+background: -o-linear-gradient(top, #61d2ff, #00fb86);
+
+
+
+
+
+}
+
+.progress {
+  cursor: progress;
+}
+
+img {
+  padding: 30px 20px 30px 20px;
+  position: ;
+  border-radius: 150px;
+  height: 300px;
+  width: 300px;
+  cursor:  alias;
+   box-shadow: 0 0 10px white;
+}
+img:hover {
+  background-color: lightgreen;
+}
+
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+
+}
+#note {
+  background-color: transparent;
+  height: -webkit-fill-available;
+  padding-top: 100px;
+}
+
+
+.head{
+    background-color: transparent;
+    height:200px;
+    box-shadow: 0 0 10px white;
+		}
+}
+
+#title {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+.head:hover{
+  background-color: #FFCA28;
+   box-shadow: 0 0 10px black;
+}
+}
+.menu {
+  background-color: #00fb86;
+   box-shadow: 0 0 10px white;
+  height: fit-content;
+  text-align: left;
+  border: 30px;
+  padding: 0px;
+  width: fit-content;
+}
+
+#mobile_games {
+  height:;
+  background-color:white;
+
+
+}
+
+#motto{
+    color: red;
+    padding-bottom: 0px;
+    font-size:20px;
+    text-decoration:blink;
+     box-shadow: 0 0 10px white;
+
+}
+u {
+  color: aliceblue;
+}
+
+hr {
+  color:antiquewhite;
+}
+
+.line {
+  border: dotted white 11px;
+  border-bottom: 50px;
+  width: 4%;
+  margin: 100px auto;}
+footer{
+background-color: transparent;
+height: fit-content;
+width: -webkit-fill-available;
+text-align: -webkit-center;
+padding: 20px;
+font-family: -webkit-body;
+font-size: 20px;
+ box-shadow: 0 0 10px white;
+}
+
+}
+
+h3{
+  color: cyan ;
+  text-align:center;
+}
+
+
+select{
+  content-height:50px;
+}
+.game_library {
+  background-color: coral;
+  height: fit-content;
+  padding: 20px;
+   box-shadow: 0 0 10px black;
+
+}
+
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e); 
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius:  10;
+  -moz-border-radius:     10;
+  border-radius: 20px;
+  font-family: verdana;
+  color: ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  width: fit-content;
+   box-shadow: 0 0 10px white;
+
+} 
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, white);
+  background-image: -moz-linear-gradient(top, #30e3cb, white);
+  background-image: -ms-linear-gradient(top, #30e3cb, white);
+  background-image: -o-linear-gradient(top, #30e3cb, white);
+  background-image: linear-gradient(to bottom, #30e3cb, white); 
+   box-shadow: 0 0 10px white;
+
+} 
+
+a:hover {
+  color:white
+}
+a {
+  text-decoration: none;
+  color: beige;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

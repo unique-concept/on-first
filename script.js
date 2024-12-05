@@ -1,0 +1,1 @@
+alert ("Hey there, welcome to Gamehub. Click OK, ENTER or ESC to carry on.")
